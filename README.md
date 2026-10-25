@@ -83,6 +83,15 @@ Screen and rank ETFs by cost, diversification and more.
 </td>
 <td width="50%" valign="top">
 
+**[Swittcs](https://github.com/fanrsd/swittcs)**
+Mechanical-keyboard sounds for every keystroke on Windows, with a typing test.
+`C#` `.NET 8`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **More on [aufanirsad.me](https://aufanirsad.me)**
 Products and sites I designed and built: SAVVR, Funzed, LegalRaya, Kuerix.
 
