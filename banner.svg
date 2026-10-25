@@ -1,22 +1,71 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Aufa Nirsad, software builder and AI enthusiast">
+  <style>
+    .sans{font-family:Saira,'Arial Narrow',Arial,sans-serif}
+    .mono{font-family:ui-monospace,Consolas,'Courier New',monospace}
+    .grid{stroke:#1a1c18;stroke-width:1;animation:gridpulse 6s ease-in-out infinite}
+    .plus{stroke:#ff7a1a;stroke-width:2;fill:none;animation:blink 2.4s steps(1) infinite}
+    .scan{animation:scan 5s linear infinite}
+    .wipe-name{animation:wipe 1.4s cubic-bezier(.7,0,.2,1) .3s both}
+    .wipe-sub{animation:wipe2 1.6s steps(46,end) 1.5s both}
+    .dot{animation:pulse 1.6s ease-in-out infinite;transform-origin:238px 258px}
+    .tri{stroke-dasharray:420;stroke-dashoffset:420;animation:draw 1.8s ease-out .2s forwards}
+    .tri-in{opacity:0;animation:fadein .6s ease-out 1.7s forwards,throb 3s ease-in-out 2.3s infinite;transform-origin:900px 185px}
+    .role{opacity:0}
+    .r1{animation:cycle 9s linear 0s infinite}
+    .r2{animation:cycle 9s linear 3s infinite}
+    .r3{animation:cycle 9s linear 6s infinite}
+    .cursor{animation:blink 1s steps(1) infinite}
+    @keyframes wipe{from{width:0}to{width:760px}}
+    @keyframes wipe2{from{width:0}to{width:620px}}
+    @keyframes scan{from{transform:translateX(-120px)}to{transform:translateX(1120px)}}
+    @keyframes blink{0%,60%{opacity:1}61%,100%{opacity:.15}}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.9);opacity:.35}}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @keyframes fadein{to{opacity:1}}
+    @keyframes throb{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
+    @keyframes gridpulse{0%,100%{opacity:.5}50%{opacity:1}}
+    @keyframes cycle{0%{opacity:0;transform:translateY(6px)}4%,30%{opacity:1;transform:translateY(0)}34%,100%{opacity:0;transform:translateY(-6px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.role.r1{opacity:1}.tri{stroke-dashoffset:0}.tri-in{opacity:1}}
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff7a1a" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ff7a1a" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ff7a1a" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cn"><rect class="wipe-name" x="50" y="90" width="0" height="110"/></clipPath>
+    <clipPath id="cs"><rect class="wipe-sub" x="58" y="203" width="0" height="30"/></clipPath>
+  </defs>
+
   <rect width="1000" height="300" fill="#000"/>
-  <g stroke="#1a1c18" stroke-width="1">
-    <path d="M0 75H1000M0 150H1000M0 225H1000M200 0V300M400 0V300M600 0V300M800 0V300"/>
-  </g>
-  <g stroke="#ff7a1a" stroke-width="2" fill="none">
+  <path class="grid" d="M0 75H1000M0 150H1000M0 225H1000M200 0V300M400 0V300M600 0V300M800 0V300"/>
+  <rect class="scan" x="0" y="0" width="120" height="300" fill="url(#g)"/>
+
+  <g class="plus">
     <path d="M20 12v16M12 20h16"/><path d="M980 12v16M972 20h16"/>
     <path d="M20 272v16M12 280h16"/><path d="M980 272v16M972 280h16"/>
   </g>
-  <g font-family="Saira, 'Arial Narrow', Arial, sans-serif">
-    <text x="60" y="78" font-size="14" letter-spacing="3" fill="#ff7a1a">SOFTWARE BUILDER · AI ENTHUSIAST</text>
+
+  <g class="mono">
+    <text class="role r1" x="60" y="78" font-size="14" letter-spacing="3" fill="#ff7a1a">SOFTWARE BUILDER</text>
+    <text class="role r2" x="60" y="78" font-size="14" letter-spacing="3" fill="#5fe0f0">AI ENTHUSIAST</text>
+    <text class="role r3" x="60" y="78" font-size="14" letter-spacing="3" fill="#f2f3ee">PSYCHOLOGY GRADUATE</text>
+  </g>
+
+  <g clip-path="url(#cn)" class="sans">
     <text x="56" y="178" font-size="96" font-weight="800" fill="#f2f3ee" letter-spacing="-2">AUFA<tspan fill="#ff7a1a">/</tspan>NRSD</text>
+  </g>
+
+  <g clip-path="url(#cs)" class="sans">
     <text x="60" y="224" font-size="20" fill="#8a8f85">I study how people think, then build tools for them.</text>
   </g>
-  <g font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#8a8f85" letter-spacing="1">
-    <text x="60" y="262">TANGERANG, ID</text>
-    <circle cx="238" cy="258" r="4" fill="#ff7a1a"/>
-    <text x="250" y="262" fill="#f2f3ee">OPEN FOR PROJECTS</text>
+
+  <g class="mono" font-size="13" letter-spacing="1">
+    <text x="60" y="262" fill="#8a8f85">TANGERANG, ID</text>
+    <circle class="dot" cx="238" cy="258" r="4" fill="#ff7a1a"/>
+    <text x="250" y="262" fill="#f2f3ee">OPEN FOR PROJECTS<tspan class="cursor" fill="#ff7a1a">_</tspan></text>
   </g>
-  <path d="M900 90 960 210H840Z" fill="none" stroke="#ff7a1a" stroke-width="3"/>
-  <path d="M900 150 930 200H870Z" fill="#24157a"/>
+
+  <path class="tri" d="M900 90 960 210H840Z" fill="none" stroke="#ff7a1a" stroke-width="3"/>
+  <path class="tri-in" d="M900 150 930 200H870Z" fill="#24157a"/>
 </svg>
