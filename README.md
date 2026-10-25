@@ -16,7 +16,7 @@
 I'm Aufa, a psychology graduate who builds `<software/>` and tinkers with *AI* every day.
 **Psychology taught me how people think. Code lets me act on it.**
 
-- 🧠 Founder of **SAVVR**, owner of **Rayabit Digital**
+- 🧠 Founder of **SAVVR**, owner of **Rayabit Digital**, President Commissioner at [**Margin Group**](https://margingroup.id)
 - 🛠️ Building desktop tools, extensions and small web apps in TypeScript and Rust
 - 📍 Tangerang, Indonesia · open for projects and meaningful collaborations
 
