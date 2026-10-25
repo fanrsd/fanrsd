@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://github.com/fanrsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0d1117" alt="GitHub" /></a>
+<a href="https://github.com/fanrsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
 
 </div>
 
@@ -53,7 +53,7 @@ Chrome/Edge extension that detects page video and saves it as one file, with par
 
 `JavaScript` · `Chrome Extension` · `HLS`
 
-<a href="https://github.com/fanrsd/anydown"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/fanrsd/anydown"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -64,7 +64,7 @@ Adaptive hybrid file compressor in Rust. Routes blocks between LZMA2 and Zstanda
 
 `Rust` · `Compression` · `egui`
 
-<a href="https://github.com/fanrsd/quantumcompress"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/fanrsd/quantumcompress"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Automatic session resume for oh-my-pi when you hit usage limits, quota windows o
 
 `JavaScript` · `CLI` · `Automation`
 
-<a href="https://github.com/fanrsd/omp-auto-retry"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/fanrsd/omp-auto-retry"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +88,7 @@ Self-hosted disposable email on Cloudflare Workers. Instant temporary inbox, no 
 
 `TypeScript` · `Cloudflare Workers` · `D1`
 
-<a href="https://github.com/fanrsd/unchainmail"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/fanrsd/unchainmail"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ A court for people who say "terserah" and then reject every suggestion. LLM judg
 
 `TypeScript` · `Next.js` · `Supabase`
 
-<a href="https://github.com/fanrsd/terserah-resolver"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/fanrsd/terserah-resolver"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +112,7 @@ Web app for screening and ranking ETFs by cost, diversification and other criter
 
 `TypeScript` · `Bun` · `Investing`
 
-<a href="https://github.com/fanrsd/screeny"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/fanrsd/screeny"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
@@ -140,8 +140,8 @@ Web app for screening and ranking ETFs by cost, diversification and other criter
 
 I build useful software and enjoy turning ambitious ideas into working products.
 
-<a href="mailto:hey@aufanirsad.me"><img src="https://img.shields.io/badge/Email-7B5CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-<a href="https://linkedin.com/in/aufanirsad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:hey@aufanirsad.me"><img src="https://img.shields.io/badge/Email-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Email" /></a>
+<a href="https://linkedin.com/in/aufanirsad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;labelColor=0d1117" alt="LinkedIn" /></a>
 
 <br/><br/>
 
