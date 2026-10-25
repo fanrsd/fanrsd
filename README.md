@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg?v=2" width="100%" alt="Aufa Nirsad (NRSD), software builder and AI enthusiast" />
+<img src="banner-anim.svg" width="100%" alt="Aufa Nirsad (NRSD), software builder and AI enthusiast" />
 
 <br/>
 
