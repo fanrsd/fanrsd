@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Aufa Nirsad, software builder and AI enthusiast">
+  <rect width="1000" height="300" fill="#000"/>
+  <g stroke="#1a1c18" stroke-width="1">
+    <path d="M0 75H1000M0 150H1000M0 225H1000M200 0V300M400 0V300M600 0V300M800 0V300"/>
+  </g>
+  <g stroke="#ff7a1a" stroke-width="2" fill="none">
+    <path d="M20 12v16M12 20h16"/><path d="M980 12v16M972 20h16"/>
+    <path d="M20 272v16M12 280h16"/><path d="M980 272v16M972 280h16"/>
+  </g>
+  <g font-family="Saira, 'Arial Narrow', Arial, sans-serif">
+    <text x="60" y="78" font-size="14" letter-spacing="3" fill="#ff7a1a">SOFTWARE BUILDER · AI ENTHUSIAST</text>
+    <text x="56" y="178" font-size="96" font-weight="800" fill="#f2f3ee" letter-spacing="-2">AUFA<tspan fill="#ff7a1a">/</tspan>NRSD</text>
+    <text x="60" y="224" font-size="20" fill="#8a8f85">I study how people think, then build tools for them.</text>
+  </g>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#8a8f85" letter-spacing="1">
+    <text x="60" y="262">TANGERANG, ID</text>
+    <circle cx="238" cy="258" r="4" fill="#ff7a1a"/>
+    <text x="250" y="262" fill="#f2f3ee">OPEN FOR PROJECTS</text>
+  </g>
+  <path d="M900 90 960 210H840Z" fill="none" stroke="#ff7a1a" stroke-width="3"/>
+  <path d="M900 150 930 200H870Z" fill="#24157a"/>
+</svg>

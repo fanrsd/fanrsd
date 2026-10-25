@@ -1,150 +1,122 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=fanrsd&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Aufa Nirsad profile banner" />
+<img src="banner.svg" width="100%" alt="Aufa Nirsad (NRSD), software builder and AI enthusiast" />
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Building%20with%20TypeScript%20%C2%B7%20Rust%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<a href="https://aufanirsad.me"><img src="https://img.shields.io/badge/WEBSITE-aufanirsad.me-ff7a1a?style=flat-square&labelColor=000000" alt="Website" /></a>
+<a href="https://linkedin.com/in/aufanirsad"><img src="https://img.shields.io/badge/LINKEDIN-aufanirsad-f2f3ee?style=flat-square&labelColor=000000" alt="LinkedIn" /></a>
+<a href="mailto:hey@aufanirsad.me"><img src="https://img.shields.io/badge/EMAIL-hey%40aufanirsad.me-24157a?style=flat-square&labelColor=000000" alt="Email" /></a>
+<a href="https://open.spotify.com/artist/1ljoMLMcuCYGgZJ0jiBpvX"><img src="https://img.shields.io/badge/SPOTIFY-NRSD-8a8f85?style=flat-square&labelColor=000000" alt="Spotify" /></a>
+
+</div>
 
 <br/>
 
-<a href="https://github.com/fanrsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
+I'm Aufa, a psychology graduate who builds `<software/>` and tinkers with *AI* every day.
+**Psychology taught me how people think. Code lets me act on it.**
 
-</div>
+- 🧠 Founder of **SAVVR**, owner of **Rayabit Digital**
+- 🛠️ Building desktop tools, extensions and small web apps in TypeScript and Rust
+- 📍 Tangerang, Indonesia · open for projects and meaningful collaborations
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=fanrsd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<br/>
 
-## ⚡ whoami
-
-```typescript
-const fanrsd: Developer = {
-  name:      "Aufa Nirsad",
-  role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["TypeScript", "JavaScript", "Rust", "Next.js", "Cloudflare Workers"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
-
-> **Collaborations welcome when they are meaningful 🤝**
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=fanrsd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts%2Cjs%2Crust%2Cnextjs%2Creact%2Cbun%2Cnodejs%2Ccloudflare%2Csupabase%2Cgit&perline=10&theme=dark" alt="Tech stack" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=fanrsd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🌌 Featured Projects
+## `// open source`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**AnyDown**
-
-Chrome/Edge extension that detects page video and saves it as one file, with parallel HLS segment fetching.
-
-`JavaScript` · `Chrome Extension` · `HLS`
-
-<a href="https://github.com/fanrsd/anydown"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+**[DynamicBar](https://github.com/fanrsd/dynamicbar)**
+Dynamic Island for Windows: media, notifications, timer, quick controls, privacy blur.
+`Rust` `Tauri` `React`
 
 </td>
 <td width="50%" valign="top">
 
-**QuantumCompress**
-
-Adaptive hybrid file compressor in Rust. Routes blocks between LZMA2 and Zstandard by entropy, multithreaded, with a CLI and an egui GUI.
-
-`Rust` · `Compression` · `egui`
-
-<a href="https://github.com/fanrsd/quantumcompress"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+**[QuantumCompress](https://github.com/fanrsd/quantumcompress)**
+Adaptive file compressor. Routes blocks between LZMA2 and Zstandard by entropy. CLI + GUI.
+`Rust` `egui`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**omp-auto-retry**
-
-Automatic session resume for oh-my-pi when you hit usage limits, quota windows or transient provider failures.
-
-`JavaScript` · `CLI` · `Automation`
-
-<a href="https://github.com/fanrsd/omp-auto-retry"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+**[AnyDown](https://github.com/fanrsd/anydown)**
+Chrome/Edge extension that finds the video on a page and saves it as one file, with parallel HLS fetching.
+`JavaScript` `Chrome Extension`
 
 </td>
 <td width="50%" valign="top">
 
-**UnchainMail**
-
-Self-hosted disposable email on Cloudflare Workers. Instant temporary inbox, no signup, auto-expiring.
-
-`TypeScript` · `Cloudflare Workers` · `D1`
-
-<a href="https://github.com/fanrsd/unchainmail"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+**[UnchainMail](https://github.com/fanrsd/unchainmail)**
+Self-hosted disposable email on Cloudflare Workers. No signup, auto-expiring inboxes.
+`TypeScript` `Cloudflare`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**terserah-resolver**
-
-A court for people who say "terserah" and then reject every suggestion. LLM judge, built on Next.js, Supabase and Cloudflare Workers.
-
-`TypeScript` · `Next.js` · `Supabase`
-
-<a href="https://github.com/fanrsd/terserah-resolver"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+**[omp-auto-retry](https://github.com/fanrsd/omp-auto-retry)**
+Automatic session resume for oh-my-pi when you hit usage limits or provider failures.
+`JavaScript` `CLI`
 
 </td>
 <td width="50%" valign="top">
 
-**Screeny**
+**[terserah-resolver](https://github.com/fanrsd/terserah-resolver)**
+A court for people who say "terserah" and reject every suggestion. LLM judge.
+`Next.js` `Supabase`
 
-Web app for screening and ranking ETFs by cost, diversification and other criteria.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`TypeScript` · `Bun` · `Investing`
+**[Screeny](https://github.com/fanrsd/screeny)**
+Screen and rank ETFs by cost, diversification and more.
+`TypeScript` `Bun`
 
-<a href="https://github.com/fanrsd/screeny"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+</td>
+<td width="50%" valign="top">
+
+**More on [aufanirsad.me](https://aufanirsad.me)**
+Products and sites I designed and built: SAVVR, Funzed, LegalRaya, Kuerix.
 
 </td>
 </tr>
 </table>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=fanrsd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<br/>
 
-## 📊 GitHub Stats
+## `// stack`
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/stats?username=fanrsd&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=fanrsd&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+<img src="https://skillicons.dev/icons?i=ts,js,rust,svelte,react,nextjs,nodejs,bun,cloudflare,supabase,git&perline=11&theme=dark" alt="Tech stack" />
 
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=fanrsd&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<br/>
+
+## `// stats`
 
 <div align="center">
 
-## 🤝 Let's Build Something Meaningful
+<img src="https://github-readme-stats.vercel.app/api?username=fanrsd&show_icons=true&hide_border=true&bg_color=000000&title_color=ff7a1a&icon_color=ff7a1a&text_color=f2f3ee&ring_color=ff7a1a" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanrsd&layout=compact&hide_border=true&bg_color=000000&title_color=ff7a1a&text_color=f2f3ee" height="165" alt="Top languages" />
 
-I build useful software and enjoy turning ambitious ideas into working products.
+</div>
 
-<a href="mailto:hey@aufanirsad.me"><img src="https://img.shields.io/badge/Email-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Email" /></a>
-<a href="https://linkedin.com/in/aufanirsad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;labelColor=0d1117" alt="LinkedIn" /></a>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-***⭐ From [Aufa Nirsad](https://github.com/fanrsd) · built with code & a little chaos 😈***
+**Let's build something good together.**
+<br/>
+<a href="mailto:hey@aufanirsad.me">hey@aufanirsad.me</a> · <a href="https://aufanirsad.me">aufanirsad.me</a>
 
 </div>
