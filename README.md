@@ -90,6 +90,36 @@ Mechanical-keyboard sounds for every keystroke on Windows, with a typing test.
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**[Zerofuss](https://github.com/fanrsd/zerofuss)**
+Live view for DJI goggles in a desktop window over USB. Windows and macOS.
+`Rust` `Tauri`
+
+</td>
+<td width="50%" valign="top">
+
+**[OurDay](https://github.com/fanrsd/ourday)**
+Indonesian wedding platform: website invitations, QR guestbook check-in, planner.
+`Next.js` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[VoizGen](https://github.com/fanrsd/voizgen)**
+Self-hosted text-to-speech studio with voice cloning on Colab GPUs.
+`JavaScript` `Cloudflare Workers`
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+</tr>
+<tr>
 <td colspan="2" valign="top">
 
 **More on [aufanirsad.me](https://aufanirsad.me)**
